@@ -6,22 +6,27 @@ An end-to-end healthcare informatics project using synthetic Synthea data, Pytho
 The project demonstrates clinical data ingestion, validation, cloud analytics, and HEDIS-inspired hypertension documentation monitoring.
 
 ## Architecture
+
 Synthea CSV Data
-    |
-    v
+    -
+    >
 Python Data Validation
-    |
-    v
+    -
+    >
 Cleaned CSV and Parquet
-    |
-    v
+    -
+    >
 Google BigQuery
-    |
-    v
+    -
+    >
 SQL Analytics Views
-    |
-    v
+    -
+    >
 Looker Studio Dashboard
+
+## Dashboard
+<img width="900" height="700" alt="image" src="https://github.com/user-attachments/assets/1998751f-05eb-47c2-ad7f-e6eb55985d99" />
+
 
 ## Dataset
 | Table | Records |
