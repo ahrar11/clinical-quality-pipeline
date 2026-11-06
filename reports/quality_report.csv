@@ -1,0 +1,5 @@
+table,total_rows,missing_patient_reference,duplicate_ids,invalid_encounter_reference,invalid_dates
+patients,1163,0,0,0,0
+encounters,61459,0,0,0,0
+conditions,38094,0,0,0,0
+observations,531144,0,0,0,0
